@@ -1,7 +1,7 @@
-import product1 from './assets/iphone.png'
-import product2 from './assets/macbook.png'
-import product3 from './assets/imac.png'
-import product4 from './assets/macmini.png'
+import product1 from './assets/images/iphone.jpg'
+import product2 from './assets/images/macbook.png'
+import product3 from './assets/images/imac.png'
+import product4 from './assets/images/macmini.png'
 
 export const PRODUCTS = [
     {
@@ -30,6 +30,7 @@ export const PRODUCTS = [
         productName: 'Macmini',
         price: 699.99,
         prodImage: product4,
-    }
+    },
+    
 
-];
+]

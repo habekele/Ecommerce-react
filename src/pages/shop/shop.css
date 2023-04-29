@@ -1,0 +1,72 @@
+.shopTitle{
+    margin-top: 70px;
+    text-align: center;
+    font-size: 40px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: 700;
+}
+
+
+.products{
+    width: 100%;
+    height: auto;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    place-items: center;
+}
+
+.product{
+    width: 300px;
+    height: 350px;
+    border-radius: 15px;
+    text-align: center;
+    margin: 100px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+}
+.product img{
+    width: 250px;
+    height: 250px;
+    object-fit:contain;
+    padding-bottom:10px;
+
+ 
+}
+
+.product .description{
+    text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.product .description b{
+    margin-top: 3px;
+    font-size: x-large;
+}
+
+.product:hover{
+    transition: 0.3s ease-in;
+    cursor: pointer;
+}
+
+
+.addToCartBttn{
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 25px;
+    padding-right: 25px;
+    margin-top: 5px;
+    background-color: #f9da4c;
+    border: 3px;
+    border-radius: 10px;
+    font-weight: bold;
+
+}
+
+.addToCartBttn:hover{
+    background-color: black;
+    color: white;
+    cursor: pointer;
+}

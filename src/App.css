@@ -4,5 +4,6 @@
 }
 html{
     background-image: url(./assets/images/cool-background.png);
-    background-size: contain;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+
 }

@@ -1,0 +1,27 @@
+.cartItems{
+    display:grid;
+    grid-template-columns: 1fr;
+    grid-template-rows: 1fr;
+    gap: 10px;
+    place-items: center;
+
+}
+
+.cartItem{
+    height: 150px;
+    width: 350px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    background-color: whitesmoke;
+    border-radius: 5%;
+    border: 1px solid gainsboro;
+    text-align: center;
+}
+
+.cartItem img{
+    height: 100px;
+    width: 150px;
+    object-fit: contain;
+}

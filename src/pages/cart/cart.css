@@ -25,3 +25,9 @@
     width: 150px;
     object-fit: contain;
 }
+
+.cartItem .price{
+    font-weight: bold;
+    padding-top: 10px;
+    padding-bottom: 20px;
+}

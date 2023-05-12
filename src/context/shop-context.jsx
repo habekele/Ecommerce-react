@@ -9,8 +9,8 @@ const getDefaultCart = () => {
     {
         cart[i] = 0
     }
-    return cart
-}
+    return cart;
+};
 
 export const ShopContextProvider = (props) => {
     const [cartItems, setCartItems] = useState(getDefaultCart());

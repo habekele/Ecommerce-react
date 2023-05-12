@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Ecommerce-react/static/css/main.e7867484.css",
+    "main.js": "/Ecommerce-react/static/js/main.520eb917.js",
+    "static/media/airpodmax.png": "/Ecommerce-react/static/media/airpodmax.de779b490e263b0dc6d8.png",
+    "static/media/iphone.png": "/Ecommerce-react/static/media/iphone.4df6d20df34bdfa8559c.png",
+    "static/media/imac.png": "/Ecommerce-react/static/media/imac.6fc387b4980457522ffc.png",
+    "static/media/macbook.png": "/Ecommerce-react/static/media/macbook.5c7ea543ac83edeb7d66.png",
+    "static/media/jordans.png": "/Ecommerce-react/static/media/jordans.c39b8ffebcdc7f0895a9.png",
+    "static/media/cool-background.png": "/Ecommerce-react/static/media/cool-background.dfd15384415dedc13d7e.png",
+    "static/media/macmini.png": "/Ecommerce-react/static/media/macmini.d75af2135a29c5f77c5c.png",
+    "index.html": "/Ecommerce-react/index.html",
+    "main.e7867484.css.map": "/Ecommerce-react/static/css/main.e7867484.css.map",
+    "main.520eb917.js.map": "/Ecommerce-react/static/js/main.520eb917.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e7867484.css",
+    "static/js/main.520eb917.js"
+  ]
+}
